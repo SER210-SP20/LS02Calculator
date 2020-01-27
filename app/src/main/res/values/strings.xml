@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LS02-Calculator</string>
+    <string name="additionOption">Addition</string>
+    <string-array name="opeartions">
+        <item>none</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
